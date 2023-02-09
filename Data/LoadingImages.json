@@ -1,0 +1,12 @@
+[
+    {
+        "MapName": "default",
+        "Path":
+        [
+            "SZ_Custom_beta/Pictures/loading_screen_1_co.edds",
+            "SZ_Custom_beta/Pictures/loading_screen_2_co.edds",
+            "SZ_Custom_beta/Pictures/loading_screen_3_co.edds",
+			"SZ_Custom_beta/Pictures/loading_screen_logo_co.edds"
+        ]
+    }
+]
